@@ -1,0 +1,12 @@
+@import "../../../../../node_modules/swiper/swiper.min.css";
+@import "../../../../../node_modules/swiper/modules/pagination/pagination.min.css";
+
+.swiper-pagination {
+   bottom: 5px !important;
+}
+.swiper-pagination-bullet {
+   height: 4px;
+   width: 18px;
+   border-radius: 25px;
+   background-color: rgb(173, 173, 173);
+}
